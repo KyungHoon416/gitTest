@@ -9,8 +9,10 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        HStack{
         Text("Git 테스트")
-            .padding()
+        Text("Git 테스트1")
+        }
     }
 }
 
